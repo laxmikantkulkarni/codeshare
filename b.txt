@@ -1,3 +1,1 @@
-First line inside a.txt
-
-;
+this is anaother line 
